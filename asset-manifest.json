@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qurandigital/static/css/main.737f8a73.css",
+    "main.js": "/qurandigital/static/js/main.bee2d783.js",
+    "static/js/787.f680cd69.chunk.js": "/qurandigital/static/js/787.f680cd69.chunk.js",
+    "index.html": "/qurandigital/index.html",
+    "main.737f8a73.css.map": "/qurandigital/static/css/main.737f8a73.css.map",
+    "main.bee2d783.js.map": "/qurandigital/static/js/main.bee2d783.js.map",
+    "787.f680cd69.chunk.js.map": "/qurandigital/static/js/787.f680cd69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737f8a73.css",
+    "static/js/main.bee2d783.js"
+  ]
+}
